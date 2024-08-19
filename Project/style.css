@@ -1,0 +1,79 @@
+.btn{
+    display: inline-block;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5em;
+    font-weight: 400;
+    color: white;
+    background-color: black;
+    border-radius: .25rem;
+    text-align: center;
+    }
+
+.red{
+    color: red;
+}
+
+
+.message{
+    margin-top: 25px;
+    padding: 15px;
+    font-size: 1.2em;
+    font-family: cursive;
+}
+
+.card{
+    display: inline-block;
+    margin: auto;
+    padding: 20px;
+    height: 120px;
+    width: 90px;
+    background-color: whitesmoke;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 5px 10px #333;
+    margin: 5px;
+    
+}
+
+.cardB{
+    position: absolute;
+    top: 113px;
+    left: 800px;
+    padding: 20px;
+    height: 120px;
+    width: 90px;
+    background-color: darkred;
+    border-radius: 5px;
+    box-shadow: 5px 10px #333;
+    margin: 5px;
+}
+
+
+.big{
+    font-size: 3em;
+    text-align: center;
+}
+.tiny{
+    font-size: 1.2em;
+    vertical-align: top;
+    text-align: left;
+    margin-left: 3em;
+}
+
+.score{
+   display: block;
+    font-size: 2em;
+    margin: 15px 0;
+}
+body{
+    background-image: url(https://img.freepik.com/free-psd/realistic-casino-items-illustration_23-2150688785.jpg?w=1060&t=st=1694715743~exp=1694716343~hmac=6b0908143e817c08a4da815d6b0aa5b83ebaa1b59aeb95676296ce637769081d);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin-left: 800px;
+}
+
+
+        
